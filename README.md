@@ -5,7 +5,7 @@
 This repository contains a collection of papers in the field of [Visual Grounding].
 
 ## Visual Grounding
-- **[2024] [ECCV]**: [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding] - [\[paper\]](https://arxiv.org/abs/2407.03200) [\[code\]]((https://github.com/WeitaiKang/SegVG))
+- **[2024] [ECCV]**: [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding] - [\[paper\]](https://arxiv.org/abs/2407.03200) [\[code\]](https://github.com/WeitaiKang/SegVG)
   - [Short description of the paper's contribution or key focus]
 - **[Conference Name 2] [Year 2]**: [Paper Title 2]
   - [Another short description]
