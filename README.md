@@ -6,9 +6,11 @@ This repository contains a collection of papers in the field of [Visual Groundin
 
 ## Visual Grounding
 - **[2024] [ECCV]**: [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding] - [\[paper\]](https://arxiv.org/abs/2407.03200) [\[code\]](https://github.com/WeitaiKang/SegVG) [\[Research Insights Blog\]](https://mp.weixin.qq.com/s/dBibMDl84gP6zkDCgiPPSQ)
-  - [Short description of the paper's contribution or key focus]
-- **[2024] [CVPR]**: [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention] - [\[paper\]](https://arxiv.org/abs/2405.18295) [\[code\]]() [\[Research Insights Blog\]]()
-  - [Short description of the paper's contribution or key focus]
+  - [将边界框注释转化为分割信号来提供更丰富的监督信号，并通过三重对齐模块消除特征域差异，从而提高视觉定位的性能]
+  
+- **[2024] [CVPR]**: [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention] - [\[paper\]](https://arxiv.org/abs/2405.18295)
+  
+- **[2024] [CVPR]**: [ACTRESS: Active Retraining for Semi-supervised Visual Grounding] - [\[paper\]](https://arxiv.org/abs/2407.03251) 
 
 
 ## [Others]
